@@ -6,10 +6,10 @@
      <li>Good quality</li>
     </ul>
   </li>
-  <li>Created by: Shiena Geruela</li>
+  <li>Created by: Shiena Geruela and Angelica D. Grafil</li>
   <li>References
     <ul>
      <li>Youtube</li>
     </ul>
   </li>
-  <li>Special Thanks to </li>
+  <li>Special Thanks to Anthony Gacis</li>
